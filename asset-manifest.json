@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bored-website/static/css/main.b3747119.chunk.css",
+    "main.js": "/bored-website/static/js/main.4936b668.chunk.js",
+    "main.js.map": "/bored-website/static/js/main.4936b668.chunk.js.map",
+    "runtime-main.js": "/bored-website/static/js/runtime-main.a078538b.js",
+    "runtime-main.js.map": "/bored-website/static/js/runtime-main.a078538b.js.map",
+    "static/css/2.d7af4fa5.chunk.css": "/bored-website/static/css/2.d7af4fa5.chunk.css",
+    "static/js/2.876b5e7b.chunk.js": "/bored-website/static/js/2.876b5e7b.chunk.js",
+    "static/js/2.876b5e7b.chunk.js.map": "/bored-website/static/js/2.876b5e7b.chunk.js.map",
+    "index.html": "/bored-website/index.html",
+    "precache-manifest.63d0e834f5f4e9e23f3bf0004e645cbb.js": "/bored-website/precache-manifest.63d0e834f5f4e9e23f3bf0004e645cbb.js",
+    "service-worker.js": "/bored-website/service-worker.js",
+    "static/css/2.d7af4fa5.chunk.css.map": "/bored-website/static/css/2.d7af4fa5.chunk.css.map",
+    "static/css/main.b3747119.chunk.css.map": "/bored-website/static/css/main.b3747119.chunk.css.map",
+    "static/js/2.876b5e7b.chunk.js.LICENSE.txt": "/bored-website/static/js/2.876b5e7b.chunk.js.LICENSE.txt",
+    "static/media/Billy_Ohio.ttf": "/bored-website/static/media/Billy_Ohio.95aed621.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a078538b.js",
+    "static/css/2.d7af4fa5.chunk.css",
+    "static/js/2.876b5e7b.chunk.js",
+    "static/css/main.b3747119.chunk.css",
+    "static/js/main.4936b668.chunk.js"
+  ]
+}
